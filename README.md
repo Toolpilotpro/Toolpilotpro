@@ -37,3 +37,5 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 - [Perplexity vs ChatGPT](https://toolpilotpro.com/perplexity-vs-chatgpt)
 - [5 Best AI Presentation Makers in 2026](https://toolpilotpro.com/best-ai-presentation-makers-2026)
 - [5 Best AI Music Generators in 2026](https://toolpilotpro.com/best-ai-music-generators-2026)
+- [OpenAI's Decisions API Is Now Live for Everyone: 10x Faster AI Calls in 100 Milliseconds](https://toolpilotpro.com/openai-decisions-api-guide.html)
+- [Anthropic's $2T IPO: $16.3B Revenue, $80B Loss, 80-Page AI Warning](https://toolpilotpro.com/anthropic-ipo-s1-filing-guide.html)
