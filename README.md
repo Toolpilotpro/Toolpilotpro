@@ -42,3 +42,4 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 - [Anthropic's $2T IPO: $16.3B Revenue, $80B Loss, 80-Page AI Warning](https://toolpilotpro.com/anthropic-ipo-s1-filing-guide.html)
 
 - [Kimi K3.1 Pro: 1M Context, Open Weights, Near-Frontier Coding Power](https://toolpilotpro.com/kimi-k3-1-pro-guide)
+- [Block's Dessa Is Here: Voice AI Trained Only on Human Speech](https://toolpilotpro.com/block-dessa-voice-ai-guide)
