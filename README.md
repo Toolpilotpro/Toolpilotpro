@@ -45,3 +45,5 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 - [Block's Dessa Is Here: Voice AI Trained Only on Human Speech](https://toolpilotpro.com/block-dessa-voice-ai-guide)
 
 - [ARC Prize Just Cut OpenAI's 99.9% Astra Score to 62.7% — Here's What the Harness Hid](https://toolpilotpro.com/arc-prize-cuts-astra-99-9-to-62-7)
+- [Anthropic's Reported $2T IPO Filing — What to Look For](https://toolpilotpro.com/anthropic-ipo-filing-what-to-expect)
+- [Mistral Large 4 Open Weights: 5 Checks Before You Trust the Hype](https://toolpilotpro.com/mistral-large-4-open-weights-preview)
