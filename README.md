@@ -47,3 +47,10 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 - [ARC Prize Just Cut OpenAI's 99.9% Astra Score to 62.7% — Here's What the Harness Hid](https://toolpilotpro.com/arc-prize-cuts-astra-99-9-to-62-7)
 - [Anthropic's Reported $2T IPO Filing — What to Look For](https://toolpilotpro.com/anthropic-ipo-filing-what-to-expect)
 - [Mistral Large 4 Open Weights: 5 Checks Before You Trust the Hype](https://toolpilotpro.com/mistral-large-4-open-weights-preview)
+
+- [How to Convert Word to PDF Online Free — .docx to PDF](https://toolpilotpro.com/word-to-pdf-guide)
+- [Free Text to Speech Online — Listen to Any Text](https://toolpilotpro.com/text-to-speech-guide)
+- [Free Speech to Text Online — Dictate with Your Mic](https://toolpilotpro.com/speech-to-text-guide)
+- [How to Sign a PDF Online Free — Add Your Signature](https://toolpilotpro.com/sign-pdf-guide)
+- [Free Business Card Maker — Design Cards Online](https://toolpilotpro.com/business-card-maker-guide)
+- [Free Barcode Generator — CODE128, EAN13 & UPC](https://toolpilotpro.com/barcode-generator-guide)
