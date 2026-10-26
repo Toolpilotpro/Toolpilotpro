@@ -43,3 +43,5 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 
 - [Kimi K3.1 Pro: 1M Context, Open Weights, Near-Frontier Coding Power](https://toolpilotpro.com/kimi-k3-1-pro-guide)
 - [Block's Dessa Is Here: Voice AI Trained Only on Human Speech](https://toolpilotpro.com/block-dessa-voice-ai-guide)
+
+- [ARC Prize Just Cut OpenAI's 99.9% Astra Score to 62.7% — Here's What the Harness Hid](https://toolpilotpro.com/arc-prize-cuts-astra-99-9-to-62-7)
