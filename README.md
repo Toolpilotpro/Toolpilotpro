@@ -54,3 +54,5 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 - [How to Sign a PDF Online Free — Add Your Signature](https://toolpilotpro.com/sign-pdf-guide)
 - [Free Business Card Maker — Design Cards Online](https://toolpilotpro.com/business-card-maker-guide)
 - [Free Barcode Generator — CODE128, EAN13 & UPC](https://toolpilotpro.com/barcode-generator-guide)
+
+- [Canva Craft Is Here: Canva's First In-House Image Model Plans the Picture Before It Paints It](https://toolpilotpro.com/canva-craft-guide)
