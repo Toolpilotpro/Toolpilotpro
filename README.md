@@ -30,6 +30,7 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 ## Popular guides
 
 
+- [Genie 4 Is Here: DeepMind's AI Worlds Now Talk Back — and You Can Steer Them Live](https://toolpilotpro.com/google-genie-4-guide)
 - [How to Copy Any CV Design You Like (Free CV Maker)](https://toolpilotpro.com/cv-maker-from-image-guide)
 - [10 Best AI Writing Tools in 2026](https://toolpilotpro.com/best-ai-writing-tools-2026)
 - [ChatGPT vs Claude vs Gemini](https://toolpilotpro.com/chatgpt-vs-claude-vs-gemini)
