@@ -60,3 +60,5 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 - [Canva Craft Is Here: Canva's First In-House Image Model Plans the Picture Before It Paints It](https://toolpilotpro.com/canva-craft-guide)
 - [Apple M6 MacBook Pro and iMac: Prices, Specs, AI Speed](https://toolpilotpro.com/apple-m6-macbook-pro-imac-guide)
 - [Trump Wants AI Renamed SI: What the Ban Claim Really Means](https://toolpilotpro.com/trump-ai-si-term-guide)
+
+- [Google's Worst Day Ever: How Alphabet Lost $500 Billion in Hours](https://toolpilotpro.com/alphabet-q3-2026-earnings-crash)
