@@ -28,6 +28,7 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 
 
 ## Popular guides
+- [Apple Intelligence Comes to China With Alibaba's Qwen AI](https://toolpilotpro.com/apple-intelligence-china-qwen-launch)
 
 
 - [Claude Review 2026: Pricing, Features & Best Alternatives](https://toolpilotpro.com/claude-review)
