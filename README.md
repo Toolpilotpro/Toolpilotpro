@@ -69,3 +69,5 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 - [Google's Worst Day Ever: How Alphabet Lost $500 Billion in Hours](https://toolpilotpro.com/alphabet-q3-2026-earnings-crash)
 
 - [Kimi K3.1 Pro Weights Drop Nov 4: Licence, Size, How to Run](https://toolpilotpro.com/kimi-k3-1-pro-open-weights)  
+- [15 Best Free AI Tools in 2026 (Actually Free, Tested)](https://toolpilotpro.com/best-free-ai-tools-2026)
+- [Best AI Apps in 2026: 10 Worth Installing on Your Phone](https://toolpilotpro.com/best-ai-apps-2026)
