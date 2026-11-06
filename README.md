@@ -74,3 +74,4 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 - [LongCat-2.5: 1.6T Parameters, 1M Context, $0.30 API](https://toolpilotpro.com/longcat-2-5-guide)
 - [80.6% at Chores, 12% at Real Work: LifeVal vs GDPx](https://toolpilotpro.com/lifeval-vs-gdpx-benchmarks)
 - [LongCat-2.5 vs Kimi K3.1 Pro vs DeepSeek: Which New AI Wins?](https://toolpilotpro.com/longcat-vs-kimi-vs-deepseek)
+- [ChatGPT Images 2.6: GIFs, SVG Export and a Hidden Price Rise](https://toolpilotpro.com/openai-images-2-6-guide)
