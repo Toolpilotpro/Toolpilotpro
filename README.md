@@ -75,3 +75,4 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 - [80.6% at Chores, 12% at Real Work: LifeVal vs GDPx](https://toolpilotpro.com/lifeval-vs-gdpx-benchmarks)
 - [LongCat-2.5 vs Kimi K3.1 Pro vs DeepSeek: Which New AI Wins?](https://toolpilotpro.com/longcat-vs-kimi-vs-deepseek)
 - [ChatGPT Images 2.6: GIFs, SVG Export and a Hidden Price Rise](https://toolpilotpro.com/openai-images-2-6-guide)
+- [Xbox Game Pass in November 2026: Cloud Caps, Leavers and Prices](https://toolpilotpro.com/xbox-game-pass-november-2026-changes) — Game Pass changes explained: monthly cloud streaming hour caps, the 13 games leaving on Nov 15 including GoldenEye 007, current plan prices and the faster Xbox app.
