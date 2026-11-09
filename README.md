@@ -77,4 +77,3 @@ Honest, hands-on guides to the best AI tools in 2026 — writing, image, video, 
 - [ChatGPT Images 2.6: GIFs, SVG Export and a Hidden Price Rise](https://toolpilotpro.com/openai-images-2-6-guide)
 - [Xbox Game Pass in November 2026: Cloud Caps, Leavers and Prices](https://toolpilotpro.com/xbox-game-pass-november-2026-changes) — Game Pass changes explained: monthly cloud streaming hour caps, the 13 games leaving on Nov 15 including GoldenEye 007, current plan prices and the faster Xbox app.
 - [Co-Design Bench: AI Coding Agents Fully Solve Just 26.4% of Real Tasks](https://toolpilotpro.com/co-design-bench-ai-coding-agents) — A new real-world benchmark finds the best AI coding agent fully solves only 26.4% of real user tasks, and explains why repository work scores so much worse than multimodal edits.
-- 
